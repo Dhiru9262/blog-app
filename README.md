@@ -78,6 +78,6 @@ Start the frontend server:
 npm start
 
 
-App will run at http://localhost:5173 (or your configured port)
+App will run at http://localhost:5173 .
 
 Frontend calls backend APIs at http://localhost:5000/api
